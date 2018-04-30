@@ -1,0 +1,9 @@
+F:\My documents\TMedsoft\TMedsoft.Database\bin\Debug\TMedsoft.Database.dacpac
+F:\My documents\TMedsoft\TMedsoft.Database\bin\Debug\TMedsoft.Database.dll
+F:\My documents\TMedsoft\TMedsoft.Database\bin\Debug\TMedsoft.Database.pdb
+F:\My documents\TMedsoft\TMedsoft.Database\obj\Debug\Model.xml
+F:\My documents\TMedsoft\TMedsoft.Database\obj\Debug\refactor.xml
+F:\My documents\TMedsoft\TMedsoft.Database\obj\Debug\postdeploy.sql
+F:\My documents\TMedsoft\TMedsoft.Database\obj\Debug\predeploy.sql
+F:\My documents\TMedsoft\TMedsoft.Database\obj\Debug\TMedsoft.Database.dll
+F:\My documents\TMedsoft\TMedsoft.Database\obj\Debug\TMedsoft.Database.pdb

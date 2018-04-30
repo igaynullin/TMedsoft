@@ -3,3 +3,22 @@
 ################################################################################
 
 /.vs
+/files
+/packages
+/TMedsoft/obj
+/TMedsoft/bin/Release
+/TMedsoft.Data/bin/Release
+/TMedsoft.Data/obj
+/TMedsoft.Data.Migrations/bin/Release
+/TMedsoft.Data.Migrations/obj
+/TMedsoft.Data.SqlServer/obj/Debug
+/TMedsoft.Desktop/bin/Release
+/TMedsoft.Desktop/obj
+/TMedsoft.Desktop.WinForms/bin
+/TMedsoft.Desktop.WinForms/obj
+/TMedsoft.Web/bin/Release
+/TMedsoft.Web.Api/bin/roslyn
+/TMedsoft.Web.Api/obj
+/TMedsoft.Database/bin/Debug
+/TMedsoft.Data.SqlServer
+/TMedsoft.Database/TMedsoft.Data.Database.dbmdl
